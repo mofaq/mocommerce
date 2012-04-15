@@ -6,8 +6,6 @@ Please create a ticket if on github you have issues.  They will be addressed ASA
 
 [Please look at the homepage for more details](http://www.ror-e.com)
 
-![Alt text](http://ror-e.com/images/logo.png "ROR Ecommerce")
-
 This is a Rails e-commerce platform.  Other e-commerce projects that use rails, don't use rails in a standard way.  They use engines or are a separate framework altogether.
 
 ROR ecommerce is a *Rails 3 application* with the intent to allow developers to create an ecommerce solution easily.  This solution includes, an Admin for  *Purchase Orders*, *Product creation*, *Shipments*, *Fulfillment* and *creating Orders*.  There is a minimal customer facing shopping cart understanding that this will be customized.  The cart allows you to track your customers *cart history* and includes a *double entry accounting system*.
